@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class Main {
+public class Tic_Tac_Toe__ARUN {
     static String[] gameBoard;
     static String winner;
     static String player;
